@@ -1,0 +1,8 @@
+numpy
+scipy
+scikit-learn
+matplotlib          # only Block2
+pygame>=2.3         # SDL2 multi‑window
+pyautogui
+pylsl>=1.16
+joblib
