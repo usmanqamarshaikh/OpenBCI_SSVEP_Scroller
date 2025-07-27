@@ -26,8 +26,8 @@ Two occipital electrodes (O1 & O2) + an OpenBCI Cyton are all you need.
 
 ## 2 · Quick start
 ```bash
-git clone https://github.com/usmanqamarshaikh/OBCI_SSVEP_Scroller.git
-cd OBCI_SSVEP_Scroller
+git clone https://github.com/usmanqamarshaikh/OpenBCI_SSVEP_Scroller.git
+cd OpenBCI_SSVEP_Scroller
 pip install -r requirements.txt
 ```
 ## 3 · 3 Steps
